@@ -1,0 +1,34 @@
+.conterner1 {
+    display: flex;
+    justify-content: center;
+}
+.conterner2 {   
+    display: flex;
+    justify-content: center;
+}
+.conterner1 div{
+    background-color: red;
+}
+.conterner2 div{
+    background-color: rgb(51, 119, 221);
+}
+.conterner1 p{
+    display: flex;
+    justify-content: center;
+}
+.conterner2 p{
+    display: flex;
+    justify-content: center;
+}
+.conterner1 img{
+    border: 10px solid white;
+    width: 200px;
+    height: 200px; 
+    margin: 5px 5px 5px 5px;
+}
+.conterner2 img{
+    border: 10px solid white;
+    width: 200px;
+    height: 200px; 
+    margin: 5px 5px 5px 5px;
+}
