@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:wght@300;400&display=swap');
+body{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+.container{
+    background-color: white;
+    display: flex;
+    width: 70%;  
+}
+.container img{
+    width: 360px;
+    margin: 20px 20px 20px 20px;
+}
+.bandeira{
+    display: flex;
+    align-items: center;
+}
+.bandeira img{
+    width: 20px;
+    height: 20px;
+}
+.clubes{
+    display: flex;
+    align-items: center;
+}
+.clubes img{
+    width: 12%;
+    height: 10%;
+}
+.Achievements img{
+    width: 12%;
+    height: 20%;
+}
